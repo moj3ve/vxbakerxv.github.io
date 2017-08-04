@@ -1,0 +1,151 @@
+Package: com.ps-vxbakerxv.emoji10fontefm
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Depends: firmware (>= 7.0)
+Filename: .///debs/Emoji10EFM.deb
+Size: 38102552
+MD5sum: 4ad2126c485f031b3d86bbd0588242ee
+SHA1: 931f3b991f8e41acbd1751309ed73150f4e9dee9
+SHA256: 57a9ac6b97881a64fc1d6cd2b56d7446c3e5fae0ee83d2ff0932e359e4a11609
+Section: Fonts
+Description: Emoji 11 beta font (EFM)
+Author: PoomSmart & vXBaKeRXv
+Depiction: https://vxbakerxv.github.io/repo/emoji10efm/index.html
+Name: Emoji iOS 11b (EFM)
+
+Package: com.ps-vxbakerxv.emoji10fontpink
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .///debs/Emoji10Pink.deb
+Size: 102842848
+MD5sum: d6b62a6d240e1183f9806d15f12a3a3d
+SHA1: d95364fc424eb0bf2f9d2702899f338888fbeebb
+SHA256: 645e7806905d21b87f3d0e5e62e207689ccda29443566bb887b452ad38a03d4b
+Section: Fonts
+Description: Emoji 10.2 Pink Hue
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojifont10pink/index.html
+Name: Emoji iOS 10 (Pink)
+
+Package: com.ps-vxbakerxv.emoji11fontuni
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .///debs/Emoij11Deb.deb
+Size: 38102346
+MD5sum: 058ef8cd9cd66667c8bfa10e2495790a
+SHA1: 9b9ca2e268a4a2fbc914b5a39e2dfe830b1db53d
+SHA256: e136a0bede0e3c3b3ee01e14d6ab1546cf0bb8ad894ef330938d4e1454004da1
+Section: Fonts
+Description: Emoji font iOS 11 beta (10.3-based)
+Author: PoomSmart & vXBaKeRXv
+Depiction: https://vxbakerxv.github.io/repo/emojifont11/index.html
+Name: Emoji iOS 11
+
+Package: com.ps-vxbakerxv.emojiandroidnfontuni
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .///debs/EmojiAndroidNUni.deb
+Size: 67482184
+MD5sum: 0b66cc040dddad1632c50ee2923e34b8
+SHA1: 3b9654fae4c1497dcbccce6196a1398e6e745b5e
+SHA256: 4fae4632b5f7a4e9ac7e8aa8095fc5423440eb578aacc3ae9113ecae8d3db240
+Section: Fonts
+Description: Emoji Android N font
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojiandroidn/index.html
+Name: Emoji Android N
+
+Package: com.ps-vxbakerxv.emojiflatiosfontuni
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .///debs/EmojiFlatDeb.deb
+Size: 75842276
+MD5sum: 02162daabb5577646f3c25eb575817d9
+SHA1: ddc9dd5b6958c185f1ca1c657ae1170ac3e513c0
+SHA256: 3ad0c7168e5fbca857ef27f0186895c4b60212cb61f1213831502bbe3dd9f671
+Section: Fonts
+Description: Emoji Flat iOS font
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojiflat/index.html
+Name: Emoji Flat iOS
+
+Package: com.ps-vxbakerxv.emojione2016fontuni
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .///debs/EmojiOne2016Uni.deb
+Size: 61058860
+MD5sum: 405e341141a39371fb5766f25f1009df
+SHA1: 0f589aec7befffe607a9fdbb3cad236c87b700c5
+SHA256: 537ac6ae0965987f3833bf849989cd666b296bd2daa1021b73f3c46e24855a6b
+Section: Fonts
+Description: EmojiOne 2016 font
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojione2016/index.html
+Name: EmojiOne 2016
+
+Package: com.ps-vxbakerxv.emojione2017
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .///debs/EmojiOne2017.deb
+Size: 39351828
+MD5sum: eedcaca7a33b0d8d7b723e18a8bad4d4
+SHA1: 002706dbc2f914a81048febcc2be9826280e8b89
+SHA256: f9cd2372519b27e540cd634aa0b7dbb58721bad818f0c9cfa8b1ce05e01f4172
+Section: Fonts
+Description: EmojiOne 2017 font
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojione2017/index.html
+Name: EmojiOne 2017
+
+Package: com.ps-vxbakerxv.emojisamsung
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .///debs/EmojiSamsung.deb
+Size: 97336292
+MD5sum: 2920000067652a3bd8f0b84e0de986d5
+SHA1: 935a28c5c4e726f26c044bc1aa495bc50fcce10e
+SHA256: 4975677246ed05643ea6264163f32ce117211004c4142b7cb109f9acc6ef780a
+Section: Fonts
+Description: Emoji Samsung font
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojisamsung/index.html
+Name: Emoji Samsung
+
+Package: com.ps-vxbakerxv.emojitwitterfontuni
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .///debs/EmojiTwitterUni.deb
+Size: 54179728
+MD5sum: 4dc67d0ef595fd31ccdf6992e5c49140
+SHA1: 39d02643ea4a9239be5239770e3f5e803f592ee7
+SHA256: 3b5a61b16eebec3e386293930c63605a9641353427e5c061d9a771fcd843143f
+Section: Fonts
+Description: Emoji Twitter font
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojitwitter/index.html
+Name: Emoji Twitter
+
+Package: com.ps-vxbakerxv.fairydustb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .///debs/FairydustB.deb
+Size: 9258260
+MD5sum: 48139d2762fc87c70186e69fb0591f73
+SHA1: 3ab3458d316f9571586f7c9b1743c4253747f7a2
+SHA256: 96a8adb5a95532fa4a87e6744ff9a8aaffbfdb5547e2589cb0d3777076e77b71
+Section: Fonts (BytaFont 3)
+Description: SwapMode Ported Font
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/fairydustb/index.html
+Name: FairydustB
+
