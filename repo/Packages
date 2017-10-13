@@ -14,14 +14,14 @@ Depiction: http://vxbakerxv.github.io/repo/emojifont10pink/index.html
 Name: Emoji iOS 10 (Pink)
 
 Package: com.ps-vxbakerxv.emoji111fontuni
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
 Filename: .//debs/Emoji111Deb.deb
-Size: 43173866
-MD5sum: 9ba6e16328d2a5e645b159ea284a6f02
-SHA1: 00da32420b579471c9748fa6ab51fad0d38cefbb
-SHA256: c11098d489359ffde74e36326a74890625a362e92b07d30e739b90990f3c7e45
+Size: 43185590
+MD5sum: 1896c5562cea1843241de0adeac57433
+SHA1: 53a7c776eef4f9bfdd206803c4d591acd12a39e4
+SHA256: ceef4a9a7c8504c56435f404d09e7cc00e8dbe5648a82b2493db91bff5281579
 Section: Fonts
 Description: Emoji 11.1 b2
 Author: PoomSmart & vXBaKeRXv
