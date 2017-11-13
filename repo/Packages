@@ -105,14 +105,14 @@ Depiction: http://vxbakerxv.github.io/repo/emojione2017/index.html
 Name: EmojiOne 2017
 
 Package: com.ps-vxbakerxv.emojisamsung
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
 Filename: .//debs/EmojiSamsung.deb
-Size: 97336292
-MD5sum: 2920000067652a3bd8f0b84e0de986d5
-SHA1: 935a28c5c4e726f26c044bc1aa495bc50fcce10e
-SHA256: 4975677246ed05643ea6264163f32ce117211004c4142b7cb109f9acc6ef780a
+Size: 45898184
+MD5sum: cfa08f4aa4fd6ec0730454b716fb479d
+SHA1: 741d2f1d51d6bca86b5aa80bb3560f0c1a800a44
+SHA256: 579235869a226e66b95da5441493e3757fe41b3a493a88942ce29c48ab68c343
 Section: Fonts
 Description: Emoji Samsung font
 Author: PoomSmart & vXBaKeRXv
