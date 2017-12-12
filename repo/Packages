@@ -29,21 +29,6 @@ Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojifont111/index.html
 Name: Emoji iOS 11.1
 
-Package: com.ps-vxbakerxv.emojiandroidnfontuni
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiAndroidNUni.deb
-Size: 67482184
-MD5sum: 0b66cc040dddad1632c50ee2923e34b8
-SHA1: 3b9654fae4c1497dcbccce6196a1398e6e745b5e
-SHA256: 4fae4632b5f7a4e9ac7e8aa8095fc5423440eb578aacc3ae9113ecae8d3db240
-Section: Fonts
-Description: Emoji Android N font
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojiandroidn/index.html
-Name: Emoji Android N
-
 Package: com.ps-vxbakerxv.emojiandroidofontuni
 Version: 1.0
 Architecture: iphoneos-arm
@@ -73,21 +58,6 @@ Description: Emoji Flat iOS font
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojiflat/index.html
 Name: Emoji Flat iOS
-
-Package: com.ps-vxbakerxv.emojione2016fontuni
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOne2016Uni.deb
-Size: 61058860
-MD5sum: 405e341141a39371fb5766f25f1009df
-SHA1: 0f589aec7befffe607a9fdbb3cad236c87b700c5
-SHA256: 537ac6ae0965987f3833bf849989cd666b296bd2daa1021b73f3c46e24855a6b
-Section: Fonts
-Description: EmojiOne 2016 font
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojione2016/index.html
-Name: EmojiOne 2016
 
 Package: com.ps-vxbakerxv.emojione2017
 Version: 1.2
