@@ -119,18 +119,3 @@ Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojitwitter/index.html
 Name: Emoji Twitter
 
-Package: com.ps-vxbakerxv.fairydustb
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/FairydustB.deb
-Size: 9258260
-MD5sum: 48139d2762fc87c70186e69fb0591f73
-SHA1: 3ab3458d316f9571586f7c9b1743c4253747f7a2
-SHA256: 96a8adb5a95532fa4a87e6744ff9a8aaffbfdb5547e2589cb0d3777076e77b71
-Section: Fonts (BytaFont 3)
-Description: SwapMode Ported Font
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/fairydustb/index.html
-Name: FairydustB
-
