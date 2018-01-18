@@ -1,33 +1,33 @@
-Package: com.ps-vxbakerxv.emoji111fontefm
+Package: com.ps-vxbakerxv.emoji112fontefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
 Depends: firmware(>=7.0)
-Filename: .//debs/Emoji111EFM.deb
-Size: 43185348
-MD5sum: 26836e7832fce131c8c22e25232a0009
-SHA1: 5de2e582acad8e9fab3e15397bb4496a957d0a4b
-SHA256: e0e45a10d2d48519dc17337c24126c1b81133cc929a2e648a81402b43d18c3b2
+Filename: .//debs/Emoji112EFM.deb
+Size: 50991964
+MD5sum: fd475cca6c6323cc4455fb4ddaba3a11
+SHA1: 6a2401f8852de6e3e55c7ffb0be76a573bb6b026
+SHA256: 0a244152f77be44434eadc659514ff8b36f60730715fea50329b85b622f2367e
 Section: Fonts
-Description: Emoji 11.1 b2
+Description: Emoji 11.2
 Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emoji111efm/index.html
-Name: Emoji iOS 11.1 (EFM)
+Depiction: http://vxbakerxv.github.io/repo/emoji112efm/index.html
+Name: Emoji iOS 11.2 (EFM)
 
-Package: com.ps-vxbakerxv.emoji111fontuni
-Version: 1.1
+Package: com.ps-vxbakerxv.emoji112fontuni
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/Emoji111Deb.deb
-Size: 43185590
-MD5sum: 1896c5562cea1843241de0adeac57433
-SHA1: 53a7c776eef4f9bfdd206803c4d591acd12a39e4
-SHA256: ceef4a9a7c8504c56435f404d09e7cc00e8dbe5648a82b2493db91bff5281579
+Filename: .//debs/Emoji112Deb.deb
+Size: 50992182
+MD5sum: a17c603048d23be22661d543615b6aca
+SHA1: 08df5fab64b7ba10b66409535b9f35857d29cf0f
+SHA256: a6383b5fa0a1ded4090591556099ae634097e4bd882858284b53aaf21768eda2
 Section: Fonts
-Description: Emoji 11.1 b2
+Description: Emoji 11.2
 Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojifont111/index.html
-Name: Emoji iOS 11.1
+Depiction: http://vxbakerxv.github.io/repo/emojifont112/index.html
+Name: Emoji iOS 11.2
 
 Package: com.ps-vxbakerxv.emojiandroidofontuni
 Version: 1.0
@@ -43,21 +43,6 @@ Description: Emoji Android O font
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojiandroido/index.html
 Name: Emoji Android O
-
-Package: com.ps-vxbakerxv.emojiflatiosfontuni
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiFlatDeb.deb
-Size: 75842276
-MD5sum: 02162daabb5577646f3c25eb575817d9
-SHA1: ddc9dd5b6958c185f1ca1c657ae1170ac3e513c0
-SHA256: 3ad0c7168e5fbca857ef27f0186895c4b60212cb61f1213831502bbe3dd9f671
-Section: Fonts
-Description: Emoji Flat iOS font
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojiflat/index.html
-Name: Emoji Flat iOS
 
 Package: com.ps-vxbakerxv.emojione2017
 Version: 1.2
