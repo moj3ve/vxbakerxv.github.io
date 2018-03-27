@@ -1,3 +1,18 @@
+Package: com.ps-vxbakerxv.emoji112fontanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/Emoji112Anemone.deb
+Size: 50990562
+MD5sum: a21a4289645cad712d5e1bdbec447a74
+SHA1: f83dfc924822a30451e5bd18a5b7dfd897db9377
+SHA256: 2fbec2562a7c6d4313d5b2b2e4fc9609a305d29f69dfee7ddb35f7226da94c79
+Section: Anemone Fonts
+Description: iOS 10-11
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojifont112anemone/index.html
+Name: Emoji iOS 11.2
+
 Package: com.ps-vxbakerxv.emoji112fontefm
 Version: 1.0
 Architecture: iphoneos-arm
@@ -28,6 +43,21 @@ Description: Emoji 11.2
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojifont112/index.html
 Name: Emoji iOS 11.2
+
+Package: com.ps-vxbakerxv.emojiandroidofontanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiAndroidOAnemone.deb
+Size: 38433048
+MD5sum: 979f2f67fccc95c4526e23315f9bab6b
+SHA1: 896279513019250776375b610399e5ae2203970f
+SHA256: e2736f2cb44063f70b33e4d95cdf1893cc77377cf2e6a578ab5c661e59699481
+Section: Anemone Fonts
+Description: iOS 10-11
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojiandroidoanemone/index.html
+Name: Emoji Android O
 
 Package: com.ps-vxbakerxv.emojiandroidofontuni
 Version: 1.0
@@ -64,12 +94,12 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
 Filename: .//debs/EmojiOne2017Anemone.deb
-Size: 39123904
-MD5sum: b3b4502184ac32f2c1d87b0a0accf25c
-SHA1: 14baaa1c0ab642f988c4aef5c35bd211286df06b
-SHA256: 720ecca3147739c9946ce22f7f287a1fddef9e1f30b92ad31057168c7fda5bbe
+Size: 39123970
+MD5sum: 8f410955c6eed7638f05d79542d9127b
+SHA1: feff7d3611f7a04e0d92a0c9cac98e03275182de
+SHA256: 1d330f971d524d1f1034d05c6bacfabbf46191923aa9428d3db40e0cd68bbefe
 Section: Anemone Fonts
-Description: EmojiOne 2017 iOS 10-11
+Description: iOS 10-11
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojione2017anemone/index.html
 Name: EmojiOne 2017
@@ -103,6 +133,36 @@ Description: Emoji Samsung font
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojisamsung/index.html
 Name: Emoji Samsung
+
+Package: com.ps-vxbakerxv.emojisamsunganemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiSamsungAnemone.deb
+Size: 44515736
+MD5sum: a5b953a7d8b5d354c705522e96ba9f11
+SHA1: 62dc38b0e8965ffcc27338347f7b85add428e2b7
+SHA256: aa6a8d45bad4daab304fad216f96ba99cff5b298c2cf503ba02be886b65a2875
+Section: Anemone Fonts
+Description: iOS 10-11
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojisamsunganemone/index.html
+Name: Emoji Samsung
+
+Package: com.ps-vxbakerxv.emojitwitterfontanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiTwitterAnemone.deb
+Size: 31573394
+MD5sum: d01b6f5c94bdc2549568d99ab7dd7c03
+SHA1: c944bf664a570efa48bc789f1e9057e717e84420
+SHA256: e2683c1ccc996029021d57dde02dc3301268f9491ac758f7486d68d483adf436
+Section: Anemone Fonts
+Description: iOS 10-11
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojitwitteranemone/index.html
+Name: Emoji Twitter
 
 Package: com.ps-vxbakerxv.emojitwitterfontuni
 Version: 1.5
