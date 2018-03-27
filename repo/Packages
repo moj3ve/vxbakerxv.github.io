@@ -59,6 +59,21 @@ Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojione2017/index.html
 Name: EmojiOne 2017
 
+Package: com.ps-vxbakerxv.emojione2017anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiOne2017Anemone.deb
+Size: 39123904
+MD5sum: b3b4502184ac32f2c1d87b0a0accf25c
+SHA1: 14baaa1c0ab642f988c4aef5c35bd211286df06b
+SHA256: 720ecca3147739c9946ce22f7f287a1fddef9e1f30b92ad31057168c7fda5bbe
+Section: Anemone Fonts
+Description: EmojiOne 2017 iOS 10-11
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojione2017anemone/index.html
+Name: EmojiOne 2017
+
 Package: com.ps-vxbakerxv.emojionedecal2017
 Version: 1.0
 Architecture: iphoneos-arm
