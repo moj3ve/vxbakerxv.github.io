@@ -149,6 +149,21 @@ Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojisamsunganemone/index.html
 Name: Emoji Samsung
 
+Package: com.ps-vxbakerxv.emojitmntfontanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiTMNTAnemone.deb
+Size: 43311398
+MD5sum: 2dce5b2fd1534f1e47d9f90fc81790c3
+SHA1: 97a7f0bf032bc4293636cc1180cd424dab280525
+SHA256: 039be6d958fc64683bb5447a9398a7708cdf6e00aae6bf80a7bdc82bcffeed9e
+Section: Anemone Fonts
+Description: iOS 10-11
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojitmntanemone/index.html
+Name: Emoji TMNT
+
 Package: com.ps-vxbakerxv.emojitwitterfontanemone
 Version: 1.0
 Architecture: iphoneos-arm
@@ -178,4 +193,34 @@ Description: Emoji Twitter font
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojitwitter/index.html
 Name: Emoji Twitter
+
+Package: com.ps-vxbakerxv.emojiwhatsappfont
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiWhatsApp.deb
+Size: 36030632
+MD5sum: 9898c78def19da5791588bc5116abf10
+SHA1: 0d8a89da3ae70ecf722097d37b4addaa1774298a
+SHA256: 0d0c51fa5f14065e87fcdd78be02962271ec2f27e7dad374a008a1b6c7c1d708
+Section: Fonts
+Description: Emoji WhatsApp
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojiwhatsappfont/index.html
+Name: Emoji WhatsApp
+
+Package: com.ps-vxbakerxv.emojiwhatsappfontanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiWhatsAppAnemone.deb
+Size: 36028854
+MD5sum: 34c0a5c37c23db7d1cad992511c25327
+SHA1: 7819ce3a089ea45d6cf402ba62f9082b1ba4f4d7
+SHA256: 77be0106378537e6dd26c92c06eb7af2ef7e1f2c1b04bd62257059568d8c8d0e
+Section: Anemone Fonts
+Description: iOS 10-11
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojiwhatsappfontanemone/index.html
+Name: Emoji WhatsApp
 
