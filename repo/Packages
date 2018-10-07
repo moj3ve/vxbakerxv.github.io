@@ -13,36 +13,36 @@ Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojifont112anemone/index.html
 Name: Emoji iOS 11.2
 
-Package: com.ps-vxbakerxv.emoji112fontefm
+Package: com.ps-vxbakerxv.emoji121font
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/Emoji121Deb.deb
+Size: 48045992
+MD5sum: 423d7efd52caae662d6cd588404190e8
+SHA1: 80395a5d9373597cd4643f901e186fbc6ae5fe9e
+SHA256: ca0cc3ee55dc6325f215698e5e828b33be627bc36a5ec6752bcb7f0c228d5a2d
+Section: Fonts
+Description: Emoji 12.1 B2
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojifont121/index.html
+Name: Emoji iOS 12.1
+
+Package: com.ps-vxbakerxv.emoji121fontefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
 Depends: firmware(>=7.0)
-Filename: .//debs/Emoji112EFM.deb
-Size: 50991964
-MD5sum: fd475cca6c6323cc4455fb4ddaba3a11
-SHA1: 6a2401f8852de6e3e55c7ffb0be76a573bb6b026
-SHA256: 0a244152f77be44434eadc659514ff8b36f60730715fea50329b85b622f2367e
+Filename: .//debs/Emoji121EFM.deb
+Size: 48045752
+MD5sum: 37ffe50243235db6c29a8e8bc6a4aeb9
+SHA1: dcb0a8cfec7a67cdf3c88d09f55a79695b49b4de
+SHA256: 0115f8c497990c381cda01261694c0ded932d988146054f9c0cf8b60ed017338
 Section: Fonts
-Description: Emoji 11.2
+Description: Emoji 12.1 B2
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emoji112efm/index.html
-Name: Emoji iOS 11.2 (EFM)
-
-Package: com.ps-vxbakerxv.emoji112fontuni
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/Emoji112Deb.deb
-Size: 50992182
-MD5sum: a17c603048d23be22661d543615b6aca
-SHA1: 08df5fab64b7ba10b66409535b9f35857d29cf0f
-SHA256: a6383b5fa0a1ded4090591556099ae634097e4bd882858284b53aaf21768eda2
-Section: Fonts
-Description: Emoji 11.2
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojifont112/index.html
-Name: Emoji iOS 11.2
+Name: Emoji iOS 12.1 (EFM)
 
 Package: com.ps-vxbakerxv.emojiandroidofontanemone
 Version: 1.0
