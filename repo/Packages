@@ -74,65 +74,35 @@ Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojiandroido/index.html
 Name: Emoji Android O
 
-Package: com.ps-vxbakerxv.emojione2017
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOne2017.deb
-Size: 39125742
-MD5sum: 5fd680c4a9ed99abd7fd8e2d9185d127
-SHA1: bec4924ee182835f5ac0c6edc5947c5931148442
-SHA256: a669be15cee2ccb2c6e465eed409d1c6ebe3cdf169ca1cc7b060756655beb9a6
-Section: Fonts
-Description: EmojiOne 2017 font
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojione2017/index.html
-Name: EmojiOne 2017
-
-Package: com.ps-vxbakerxv.emojione2017anemone
+Package: com.ps-vxbakerxv.emojione2018
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOne2017Anemone.deb
-Size: 39123970
-MD5sum: 8f410955c6eed7638f05d79542d9127b
-SHA1: feff7d3611f7a04e0d92a0c9cac98e03275182de
-SHA256: 1d330f971d524d1f1034d05c6bacfabbf46191923aa9428d3db40e0cd68bbefe
+Filename: .//debs/EmojiOne2018.deb
+Size: 40350112
+MD5sum: 89f8390f1554324b1701bedea9744983
+SHA1: 76160662d43995f54f902efc16ceb5ee0e7078f1
+SHA256: bb58983ace3a0627c1e996b7ecf777cd662407226a60bda0dbea4ba968176f0a
+Section: Fonts
+Description: EmojiOne 4.0
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojione2018/index.html
+Name: EmojiOne 2018
+
+Package: com.ps-vxbakerxv.emojione2018anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiOne2018Anemone.deb
+Size: 40348630
+MD5sum: ee47a8b108dafb86e3c98d033fc6493f
+SHA1: 30f92c08d3db4d5ddde1cf0ebd1e250879c8c6d4
+SHA256: 84905c5c82e49fac974be04b8de275bddd2c13cd915c0de0ea8ec30da335e656
 Section: Anemone Fonts
 Description: iOS 10-11
 Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojione2017anemone/index.html
-Name: EmojiOne 2017
-
-Package: com.ps-vxbakerxv.emojionedecal2017
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOneDecal2017.deb
-Size: 51317380
-MD5sum: 9f0c518f70ae3ca0a78e997f4d93501b
-SHA1: bde995fa14b22164fb5f8e5c1fd908e169936e50
-SHA256: e4aafee1a86d916c530fde8c3dcfc81f8eb17f064c53419a5e2dd1a6dad95c24
-Section: Fonts
-Description: EmojiOne Decal 2017 font
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojionedecal2017/index.html
-Name: EmojiOne_Decal 2017
-
-Package: com.ps-vxbakerxv.emojionedecal2017anemone
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOneDecal2017Anemone.deb
-Size: 51315604
-MD5sum: 65d33615d45a19559e2332636a82c148
-SHA1: e451540ac2a7bbbff396739d9a99109b979704ec
-SHA256: 83e713c67d2fad6c38b1346a8ffc513df04d4f27c7733e9b66fe4ebcc0c03147
-Section: Anemone Fonts
-Description: iOS 10-11
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojionedecal2017anemone/index.html
-Name: EmojiOne_Decal 2017
+Depiction: http://vxbakerxv.github.io/repo/emojione2018anemone/index.html
+Name: EmojiOne 2018
 
 Package: com.ps-vxbakerxv.emojisamsung
 Version: 1.4
