@@ -1,46 +1,30 @@
 Package: com.ps-vxbakerxv.emoji121font
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/Emoji121Deb.deb
-Size: 48045992
-MD5sum: 423d7efd52caae662d6cd588404190e8
-SHA1: 80395a5d9373597cd4643f901e186fbc6ae5fe9e
-SHA256: ca0cc3ee55dc6325f215698e5e828b33be627bc36a5ec6752bcb7f0c228d5a2d
+Filename: .//debs/Emoji121.deb
+Size: 48050496
+MD5sum: 321a034c97c368d533a29ed156200141
+SHA1: 11af769eb55159f927d97a87e1b7e6944adccaf4
+SHA256: 69bf2eab387f444ad7a642fbfefc6ba4f7438a0fb347929d6f577594c903f31b
 Section: Fonts
-Description: Emoji 12.1 B2
+Description: Emoji 12.1 B4
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojifont121/index.html
 Name: Emoji iOS 12.1
 
-Package: com.ps-vxbakerxv.emoji121fontefmttc
+Package: com.ps-vxbakerxv.emoji121fontefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Depends: firmware(>=10.0)
-Filename: .//debs/Emoji121EFMTTC.deb
-Size: 48049080
-MD5sum: d64463292471e2354e1bb8d7f74bdccc
-SHA1: 28bd939a956411a87edff6dec108373ec6525e75
-SHA256: d8d7898098e629fd02df3e432fd83d877192f1c08de75fd16063764f8149333f
+Depends: firmware(>=6.0)
+Filename: .//debs/Emoji121_EFM.deb
+Size: 48049070
+MD5sum: 5bc35554b50c83b48aab8b60396c7878
+SHA1: ccb96e2ffdff33bbb12717d60f8d97dcc6ca7707
+SHA256: 555ff6ce67efef90722acb1df5f8ec0027283b4f3eaabcc1eb93d8dfa9f33be9
 Section: EFM Fonts
-Description: iOS 10-11
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emoji121efm/index.html
-Name: Emoji iOS 12.1
-
-Package: com.ps-vxbakerxv.emoji121fontefmttf
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Depends: firmware(>=7.0)
-Filename: .//debs/Emoji121EFMTTF.deb
-Size: 48050250
-MD5sum: 91bc8271777c1340f5e56b6d13406792
-SHA1: ce1ded5b7241d89049c510e5675736c4ddbae191
-SHA256: 7cd67a73d46b11da475f6f7b370ce66f5e8b47990886b13d91edee6fea8555c9
-Section: EFM Fonts
-Description: iOS 7-9
+Description: iOS 6-11
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emoji121efm/index.html
 Name: Emoji iOS 12.1
@@ -75,18 +59,18 @@ Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojione2018/index.html
 Name: EmojiOne 2018
 
-Package: com.ps-vxbakerxv.emojione2018efmttc
+Package: com.ps-vxbakerxv.emojione2018efm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Depends: firmware(>=10.0)
-Filename: .//debs/EmojiOne2018EFMTTC.deb
-Size: 40348324
-MD5sum: 4cd75ca5b56f95726c2e2fc360dff467
-SHA1: b3b37e7cb9076fa225917c7a252e28a5e2b94d9e
-SHA256: 698e353ae230aba11e50ade081b8d65d56b7bce4e45cb1f337baefde15fc62bc
+Depends: firmware(>=6.0)
+Filename: .//debs/EmojiOne2018_EFM.deb
+Size: 40348328
+MD5sum: a7bd159ac2b27896240ed04912e7e845
+SHA1: 023171b9741870ef29befd18be8e4f06183ff058
+SHA256: 6590eee8fa560e19d2d1e6043530a45cda02fd183faad042b0f4fb99fe0762d5
 Section: EFM Fonts
-Description: iOS 10-11
+Description: iOS 6-11
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojione2018efm/index.html
 Name: EmojiOne 2018
@@ -106,15 +90,31 @@ Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojisamsung/index.html
 Name: Emoji Samsung
 
-Package: com.ps-vxbakerxv.emojitwitterfontuni
-Version: 1.5
+Package: com.ps-vxbakerxv.emojitwitterfontefm
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiTwitterUni.deb
-Size: 31574716
-MD5sum: 435f683d1de262f69e62c34b4de494af
-SHA1: f1be8c3756b18901be9ff20b5fe490752e2d347e
-SHA256: 7e1dc7d81b15eb3d5ff3e6251d820c973eae63d5c9a83c7ccef1782400520ea3
+Depends: firmware(>=6.0)
+Filename: .//debs/EmojiTwitter_EFM.deb
+Size: 33749000
+MD5sum: 11a0e9d5552782f9817ed30aa99a005c
+SHA1: 4c917df7cefcd0ee002aad9a3e87a0fb1b9d3e01
+SHA256: 50f1a8049a3d39d7dcd1bfaa68192d215ffe1d7e3db5c15d69c753b5c687734a
+Section: EFM Fonts
+Description: iOS 6-11
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojitwitterefm/index.html
+Name: Emoji Twitter
+
+Package: com.ps-vxbakerxv.emojitwitterfontuni
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiTwitter.deb
+Size: 33751338
+MD5sum: 32be167e830e64019c3f6190736bc455
+SHA1: c699028443366e428132057670eefc730fd77957
+SHA256: b3ecb52239db09dd8ca0c4ffe9201c0a27db5f5ea9480e1ec5ab46c3438ff2e1
 Section: Fonts
 Description: Emoji Twitter font
 Author: PoomSmart & vXBaKeRXv
