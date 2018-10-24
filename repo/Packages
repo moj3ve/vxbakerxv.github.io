@@ -17,32 +17,31 @@ Package: com.ps-vxbakerxv.emoji121fontefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Depends: firmware(>=7.0)
 Filename: .//debs/Emoji121_EFM.deb
-Size: 48049078
-MD5sum: d59a5ee19767230028dd6d40319d7c2f
-SHA1: 09625db6488fbb00e44ba0e2ebaa8176e5c72b5a
-SHA256: 0fe9144d12f8f8d1137556f6718ed52c0718b8094f44571e6fc53eedb423c2f6
+Size: 48049076
+MD5sum: f979acba2e98445824a73ef024eac746
+SHA1: 5dfd851a34fb5332636ac6fb6daaa1417ae87e6f
+SHA256: 566f0044b4f4c8e69403354b2c1c694ff232d818b9a270f0ea7cac637a011fa7
 Section: EFM Fonts
-Description: iOS 7-11
+Description: EmojiFontManager
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojifont121efm/index.html
 Name: Emoji iOS 12.1
 
-Package: com.ps-vxbakerxv.emojiandroidofontuni
+Package: com.ps-vxbakerxv.emojiandroidpfontefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiAndroidO.deb
-Size: 38434602
-MD5sum: a954aa5740b467b6aa90d741ae7e1d81
-SHA1: 7abc104c15ef0d6e9e54cc1c27268cfb676ce0f5
-SHA256: 94fc1f76d68fd6a998b8d801c68479d8f1d1b67b35f117b7bad3f150e7da3789
-Section: Fonts
-Description: Emoji Android O font
+Filename: .//debs/EmojiAndroidP_EFM.deb
+Size: 40912956
+MD5sum: 1ce8202b57893156dbe1f800bd7aa2b5
+SHA1: fed4f071b09480fa8bb8075ea4c6a37d8ad7d698
+SHA256: 3ed44b68f05f0c6ffddefdb8c168aea6348370bb3db237af586d5231104629e8
+Section: EFM Fonts
+Description: EmojiFontManager
 Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojiandroido/index.html
-Name: Emoji Android O
+Depiction: http://vxbakerxv.github.io/repo/emojiandroidpefm/index.html
+Name: Emoji Android P
 
 Package: com.ps-vxbakerxv.emojione2018
 Version: 1.0
@@ -63,45 +62,28 @@ Package: com.ps-vxbakerxv.emojione2018efm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Depends: firmware(>=7.0)
 Filename: .//debs/EmojiOne2018_EFM.deb
-Size: 40348306
-MD5sum: 353e5da3043414010efb59366d6a2fd1
-SHA1: 7a1667b457a4368734818ed27b74762a91bdccd3
-SHA256: a2e6be59350ad547cf97d4b395e545e686d6be940ed8923ea76516aaf821a5ad
+Size: 40348320
+MD5sum: d643e759ad832f96dc25a96575d082fc
+SHA1: 39352121306fba290dfc7a44b8ca719702a9c12e
+SHA256: c1263c8b2a62efa342d4a8803c5122e4e78df4382a8c6b240c1ef969275a096d
 Section: EFM Fonts
-Description: iOS 7-11
+Description: EmojiFontManager
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojione2018efm/index.html
 Name: EmojiOne 2018
-
-Package: com.ps-vxbakerxv.emojisamsung
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiSamsung.deb
-Size: 46541922
-MD5sum: 07494276fe73a5410d0174367ce198cf
-SHA1: dcf1cb6d96701eca72a605c49226a6a196cccf0d
-SHA256: 1a057ed8a568fa5c9e11254915781cc1659d2aa13a2d94f0ddb0bcf17b85ea78
-Section: Fonts
-Description: Emoji Samsung font
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojisamsung/index.html
-Name: Emoji Samsung
 
 Package: com.ps-vxbakerxv.emojitwitterfontefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Depends: firmware(>=7.0)
 Filename: .//debs/EmojiTwitter_EFM.deb
-Size: 33748996
-MD5sum: 601ce8ed36b88c5699755cc6bfc697fc
-SHA1: 401ab2eee10bbc1a04e4b8d772809605a73d4409
-SHA256: 973d8d10170fbd988b5efe30c6bb251547c4ada1430f4cfde9676bfeb9f70508
+Size: 33748988
+MD5sum: 8840767d0daf97ace8ffc495b693b3e7
+SHA1: bebb11412dfc80b6ff1bb89f6c373ca05b8fbba3
+SHA256: 4157675e2aed46e014383b3fcb25bc6977772cba3502a6d21c543f319cb53526
 Section: EFM Fonts
-Description: iOS 7-11
+Description: EmojiFontManager
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojitwitterefm/index.html
 Name: Emoji Twitter
@@ -120,19 +102,4 @@ Description: Emoji Twitter font
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojitwitter/index.html
 Name: Emoji Twitter
-
-Package: com.ps-vxbakerxv.emojiwhatsappfont
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiWhatsApp.deb
-Size: 36030632
-MD5sum: 9898c78def19da5791588bc5116abf10
-SHA1: 0d8a89da3ae70ecf722097d37b4addaa1774298a
-SHA256: 0d0c51fa5f14065e87fcdd78be02962271ec2f27e7dad374a008a1b6c7c1d708
-Section: Fonts
-Description: Emoji WhatsApp
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojiwhatsappfont/index.html
-Name: Emoji WhatsApp
 
