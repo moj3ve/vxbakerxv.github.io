@@ -88,50 +88,50 @@ Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojiandroidpefm/index.html
 Name: Emoji Android P
 
-Package: com.ps-vxbakerxv.emojione2018
+Package: com.ps-vxbakerxv.emojione2019
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOne2018.deb
-Size: 40350124
-MD5sum: 84ff98035382af1aa208acae7dc0a72b
-SHA1: b8563e2eb7053bf4e0eef841689d80c7819e8f97
-SHA256: 08b6996a4a1066ccab7c1ba417e3228f3b73e4107e0e6ee32be9958f6196d76c
+Filename: .//debs/EmojiOne2019.deb
+Size: 41177156
+MD5sum: 30adc867d50f7bb617000ee38e4f6223
+SHA1: 628f7331dc7e55d0a44a7d37ddf6229ca4a969f1
+SHA256: a541869ba16150bc3b88057f63fd106a8f4e5c9252d49ffa6e214a5b77b0a97d
 Section: Fonts
 Description: BytaFont
 Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojione2018/index.html
-Name: EmojiOne 2018
+Depiction: http://vxbakerxv.github.io/repo/emojione2019/index.html
+Name: EmojiOne 2019
 
-Package: com.ps-vxbakerxv.emojione2018a
+Package: com.ps-vxbakerxv.emojione2019a
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOne2018_A.deb
-Size: 40348642
-MD5sum: f3a2d35a25c2b5e09aaf9d3726853ee0
-SHA1: 39d35474e8e59978638dc6892bf2abbf8db3e405
-SHA256: 8549396ffde8971071f98577eaadcd0d8c566161599081e054fb96dee6d1dfd5
+Filename: .//debs/EmojiOne2019_A.deb
+Size: 41175342
+MD5sum: 62c316da8054eaf681c0b32cf93a5fbf
+SHA1: dd924867461008b3e00149a44fd8c20e327427fa
+SHA256: 2605d5aea9d17377f76e08bed0e7f6515832c9c803e50b9ad8bb4a2fe23ebe99
 Section: Fonts (Anemone)
 Description: Anemone
 Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojione2018a/index.html
-Name: EmojiOne 2018
+Depiction: http://vxbakerxv.github.io/repo/emojione2019a/index.html
+Name: EmojiOne 2019
 
-Package: com.ps-vxbakerxv.emojione2018efm
+Package: com.ps-vxbakerxv.emojione2019efm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOne2018_EFM.deb
-Size: 40348286
-MD5sum: 8245092b6788dd9f7acdd3b21ac73800
-SHA1: 870b556d4e02986863b41f4f35bbad17ae972de9
-SHA256: 4340184935228fec9b6e150fe969001a520b45563c0c32a42f6368fc9ed2b5fd
+Filename: .//debs/EmojiOne2019_EFM.deb
+Size: 41174966
+MD5sum: ccc690812e6127832c2eb5d26f852ef2
+SHA1: 3bdbf892578fa341345bf2fe854e098dcedecb2a
+SHA256: cb8e955094bda6051d607c5ea9abbced043d9edfed48d6d17d0597888a223258
 Section: Fonts (EFM)
 Description: EmojiFontManager
 Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojione2018efm/index.html
-Name: EmojiOne 2018
+Depiction: http://vxbakerxv.github.io/repo/emojione2019efm/index.html
+Name: EmojiOne 2019
 
 Package: com.ps-vxbakerxv.emojitwitterfont
 Version: 1.6.1
