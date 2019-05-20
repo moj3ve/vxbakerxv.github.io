@@ -133,6 +133,96 @@ Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojione2019efm/index.html
 Name: EmojiOne 2019
 
+Package: com.ps-vxbakerxv.emojionedecal2019
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiOneDecal2019.deb
+Size: 53412662
+MD5sum: 0f62ab64070f6ba49f5253eb3c4e21f7
+SHA1: f181145dd2d52d18ee7113357f53fd5de0792bae
+SHA256: 1e7963e73eea8f069f7b0de42f320bb9ec30bc6c9a58103e9f466ec467ae6d8f
+Section: Fonts
+Description: BytaFont
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojionedecal2019/index.html
+Name: EmojiOne Decal 2019
+
+Package: com.ps-vxbakerxv.emojionedecal2019a
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiOneDecal2019_A.deb
+Size: 53411296
+MD5sum: b63e9a21c6461f9109de537f41236a8f
+SHA1: 5df80c163dd1977fc4d7cd9491ff5a7341d57304
+SHA256: b395821f95406e430d6eda3095be99bc988b11dbc0f893b2df9c74ae69e78b8f
+Section: Fonts (Anemone)
+Description: Anemone
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojionedecal2019a/index.html
+Name: EmojiOne Decal 2019
+
+Package: com.ps-vxbakerxv.emojionedecal2019efm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiOneDecal2019_EFM.deb
+Size: 53410942
+MD5sum: 77d050047d826161bbdd66fad3c34087
+SHA1: f66ebafdd1c7166df3d41858d0800f9ef124daf8
+SHA256: 9f9010166989443588708628914eac242e6334435d9108d4b90df3e938fa399a
+Section: Fonts (EFM)
+Description: EmojiFontManager
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojionedecal2019efm/index.html
+Name: EmojiOne Decal 2019
+
+Package: com.ps-vxbakerxv.emojisamsung
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiSamsung.deb
+Size: 51060346
+MD5sum: fdc7628753bee4919be89a77566a25d1
+SHA1: 3427f82d0b82bb856e392935b76cd20969c4720d
+SHA256: 52f06127d560bc29f52964fa859378f2704871111da7273a945ae264e2fa2d89
+Section: Fonts
+Description: BytaFont
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojisamsung/index.html
+Name: Emoji Samsung
+
+Package: com.ps-vxbakerxv.emojisamsunga
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiSamsung_A.deb
+Size: 51058548
+MD5sum: 52f9e2977f084a96c7e8c607d5a7aa8a
+SHA1: 85a471023d9f0689d1aacb1e052f3afdca1f6925
+SHA256: a330bdca5674271558d1c471690ffe551ea7bc7ec964cdadcaba247c7edb9135
+Section: Fonts (Anemone)
+Description: Anemone
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojisamsunga/index.html
+Name: Emoji Samsung
+
+Package: com.ps-vxbakerxv.emojisamsungefm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiSamsung_EFM.deb
+Size: 51058170
+MD5sum: 1fe2d9a5112d13f7364f306ba182ee86
+SHA1: 3235df947fc1d30dc39cd4eba42c2e6e7df44700
+SHA256: 234749d80bbc124b8dacf0d9de23fff6fa88e1b6ca0f1fc1347f50bb24ae08e0
+Section: Fonts (EFM)
+Description: EmojiFontManager
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojisamsungefm/index.html
+Name: Emoji Samsung
+
 Package: com.ps-vxbakerxv.emojitwitterfont
 Version: 1.6.1
 Architecture: iphoneos-arm
