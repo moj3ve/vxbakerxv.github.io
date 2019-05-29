@@ -88,6 +88,51 @@ Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojiandroidpefm/index.html
 Name: Emoji Android P
 
+Package: com.ps-vxbakerxv.emojifacebook
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiFacebook.deb
+Size: 53155520
+MD5sum: b63ad8391f35f9aedc7cf9f408adb2f3
+SHA1: ca86459f5960d7ca066c20f7f3012557f3194116
+SHA256: 6854c1eaa39d2df6fe1d448cbbf7b29130d225a4849811979984788997e0b2b3
+Section: Fonts
+Description: BytaFont
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojifacebook/index.html
+Name: Emoji Facebook
+
+Package: com.ps-vxbakerxv.emojifacebooka
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiFacebook_A.deb
+Size: 53153874
+MD5sum: f70c6e6ecd53fffd177a7001beca6ae4
+SHA1: b7a569485d25e2faa5dcd5b3c115c87f8bca9dd1
+SHA256: adbd8585d629ce190a788ffd19351df12c20a8a80cbd6df5caacd7f192c8530f
+Section: Fonts (Anemone)
+Description: Anemone
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojifacebooka/index.html
+Name: Emoji Facebook
+
+Package: com.ps-vxbakerxv.emojifacebookefm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/EmojiFacebook_EFM.deb
+Size: 53153548
+MD5sum: 14d218c1867df6cb79dd12eb6a1f832c
+SHA1: 437ec30fe2087419c9a14b1171aa3b7ab16da3ec
+SHA256: 179be360119e0268b4fa11ec4b5ad0873d15e69f5a46cf6a66123abe67388c62
+Section: Fonts (EFM)
+Description: EmojiFontManager
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emojifacebookefm/index.html
+Name: Emoji Facebook
+
 Package: com.ps-vxbakerxv.emojione2019
 Version: 1.0
 Architecture: iphoneos-arm
