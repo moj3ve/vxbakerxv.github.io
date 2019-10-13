@@ -1,47 +1,17 @@
-Package: com.ps-vxbakerxv.emoji121font
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/Emoji121.deb
-Size: 48050490
-MD5sum: a77cee39b6511259a730363f7233e116
-SHA1: 027e395958bb1ddca308975409a7c7c26ad4091c
-SHA256: da8002d2ab2c60b4a705dbacf44522a08afbc76665b0e99ba3ed115014f9d839
-Section: Fonts
-Description: BytaFont
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emoji121/index.html
-Name: Emoji iOS 12.1
-
-Package: com.ps-vxbakerxv.emoji121fonta
+Package: com.ps-vxbakerxv.emoji132fontefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/Emoji121_A.deb
-Size: 48049372
-MD5sum: 3e4ccac0943ce97d967a0879b738853d
-SHA1: 558a5ce6062afe2f53b524dbc24f77e80636d329
-SHA256: 78bfc4a4306870568ae295b9527286d3c01c534be119394d4ffbeac7b125dc77
-Section: Fonts (Anemone)
-Description: Anemone
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emoji121a/index.html
-Name: Emoji iOS 12.1
-
-Package: com.ps-vxbakerxv.emoji121fontefm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/Emoji121_EFM.deb
-Size: 48049072
-MD5sum: 4521f2b8b6d48f1c3414a70a1d440b18
-SHA1: 2a8332e7f5119b61f97764a9413cfe26d375a419
-SHA256: 427d0624e36bc193af208069b3551a5d1aca97b2696bfb0102287415220bbdc4
+Filename: .//debs/Emoji132_EFM.deb
+Size: 63177660
+MD5sum: 21c89c4d082a278ecfabbf5189be0302
+SHA1: e071cf7a01444975e708b91749b2c9d3b3b5d245
+SHA256: 7136222280f77eaa34a568e3175f0dfe2889ab17cbba882add04b6928d9f739c
 Section: Fonts (EFM)
 Description: EmojiFontManager
 Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emoji121efm/index.html
-Name: Emoji iOS 12.1
+Depiction: http://vxbakerxv.github.io/repo/emoji132efm/index.html
+Name: Emoji iOS 13.2
 
 Package: com.ps-vxbakerxv.emojiandroidpfont
 Version: 1.0
