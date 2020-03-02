@@ -88,96 +88,6 @@ Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojiandroidpefm/index.html
 Name: Emoji Android P
 
-Package: com.ps-vxbakerxv.emojione2019
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOne2019.deb
-Size: 41177156
-MD5sum: 30adc867d50f7bb617000ee38e4f6223
-SHA1: 628f7331dc7e55d0a44a7d37ddf6229ca4a969f1
-SHA256: a541869ba16150bc3b88057f63fd106a8f4e5c9252d49ffa6e214a5b77b0a97d
-Section: Fonts
-Description: BytaFont
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojione2019/index.html
-Name: EmojiOne 2019
-
-Package: com.ps-vxbakerxv.emojione2019a
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOne2019_A.deb
-Size: 41175342
-MD5sum: 62c316da8054eaf681c0b32cf93a5fbf
-SHA1: dd924867461008b3e00149a44fd8c20e327427fa
-SHA256: 2605d5aea9d17377f76e08bed0e7f6515832c9c803e50b9ad8bb4a2fe23ebe99
-Section: Fonts (Anemone)
-Description: Anemone
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojione2019a/index.html
-Name: EmojiOne 2019
-
-Package: com.ps-vxbakerxv.emojione2019efm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOne2019_EFM.deb
-Size: 41174966
-MD5sum: ccc690812e6127832c2eb5d26f852ef2
-SHA1: 3bdbf892578fa341345bf2fe854e098dcedecb2a
-SHA256: cb8e955094bda6051d607c5ea9abbced043d9edfed48d6d17d0597888a223258
-Section: Fonts (EFM)
-Description: EmojiFontManager
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojione2019efm/index.html
-Name: EmojiOne 2019
-
-Package: com.ps-vxbakerxv.emojionedecal2019
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOneDecal2019.deb
-Size: 53412662
-MD5sum: 0f62ab64070f6ba49f5253eb3c4e21f7
-SHA1: f181145dd2d52d18ee7113357f53fd5de0792bae
-SHA256: 1e7963e73eea8f069f7b0de42f320bb9ec30bc6c9a58103e9f466ec467ae6d8f
-Section: Fonts
-Description: BytaFont
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojionedecal2019/index.html
-Name: EmojiOne Decal 2019
-
-Package: com.ps-vxbakerxv.emojionedecal2019a
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOneDecal2019_A.deb
-Size: 53411296
-MD5sum: b63e9a21c6461f9109de537f41236a8f
-SHA1: 5df80c163dd1977fc4d7cd9491ff5a7341d57304
-SHA256: b395821f95406e430d6eda3095be99bc988b11dbc0f893b2df9c74ae69e78b8f
-Section: Fonts (Anemone)
-Description: Anemone
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojionedecal2019a/index.html
-Name: EmojiOne Decal 2019
-
-Package: com.ps-vxbakerxv.emojionedecal2019efm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiOneDecal2019_EFM.deb
-Size: 53410942
-MD5sum: 77d050047d826161bbdd66fad3c34087
-SHA1: f66ebafdd1c7166df3d41858d0800f9ef124daf8
-SHA256: 9f9010166989443588708628914eac242e6334435d9108d4b90df3e938fa399a
-Section: Fonts (EFM)
-Description: EmojiFontManager
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emojionedecal2019efm/index.html
-Name: EmojiOne Decal 2019
-
 Package: com.ps-vxbakerxv.emojisamsung
 Version: 1.0
 Architecture: iphoneos-arm
@@ -267,4 +177,49 @@ Description: EmojiFontManager
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emojitwitterefm/index.html
 Name: Emoji Twitter
+
+Package: com.ps-vxbakerxv.joypixels
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/JoyPixels.deb
+Size: 52235018
+MD5sum: 7eb2e4e3c45010cd01654030cbd92f5c
+SHA1: ae93100db333ccf4d3408886885ff46bbd893a61
+SHA256: 557dd5f75b3803cfd03bb0f8805b3ac14354ecdff80c7c4873c6d660a3288784
+Section: Fonts
+Description: BytaFont
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/joypixels/index.html
+Name: JoyPixels
+
+Package: com.ps-vxbakerxv.joypixelsa
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/JoyPixels_A.deb
+Size: 52232726
+MD5sum: e4f9da4d4db65b0aa7f5f6e421794547
+SHA1: 7cc04f06e1cd8cfc0a7c7f513e1480e7cf8d966e
+SHA256: 3ac8eabe8e63a2581a1ffc4cfadfe0a21fdf43970851c3048764fcff28dc099c
+Section: Fonts (Anemone)
+Description: Anemone
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/joypixelsa/index.html
+Name: JoyPixels
+
+Package: com.ps-vxbakerxv.joypixelsefm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: .//debs/JoyPixels_EFM.deb
+Size: 52232392
+MD5sum: fae52c337fb63415307b83e9a3255164
+SHA1: 78c150f37eb3daf57672f0be1ee7066627c9a0a9
+SHA256: 6c9157545663297dd64b1f9d11d81cd4f664ec7e37a9cb1fa162b775964bd2db
+Section: Fonts (EFM)
+Description: EmojiFontManager
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/joypixelsefm/index.html
+Name: JoyPixels
 
