@@ -213,10 +213,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
 Filename: .//debs/JoyPixelsDecals.deb
-Size: 66201640
-MD5sum: 6dbf4b2b4fe7dd5ec1e11655650a41d2
-SHA1: 5dfab73add2b138d2c0dcb4aae3174bc12a719d6
-SHA256: 6e768a9c60cc751953f573676546df066bfbb2dcb9b352c9cb5bd202b1b41b2f
+Size: 66201636
+MD5sum: 3467494faf3751372b0c140803f0a1b1
+SHA1: 9bfddab4beaa43ece804be6268f87f4ee9e85ee6
+SHA256: 3dcb6df7ac61a9dd5c8b7288378ce5b7b34d4888839852fb904a7b1e8debd706
 Section: Fonts
 Description: BytaFont
 Author: PoomSmart & vXBaKeRXv
