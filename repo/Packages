@@ -1,53 +1,53 @@
-Package: com.ps-vxbakerxv.emoji132font
+Package: com.ps-vxbakerxv.emoji142font
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/Emoji132.deb
-Size: 63176428
-MD5sum: 07f09760c867b937d9810b368ab252f5
-SHA1: 9c89a42320a0a0e3d483f03c9420d78715b7eabd
-SHA256: a035fcdd037494f2e2ca834da01924fd9f05759e1bd311ce34834cf71e6b2a89
+Filename: ./debs/Emoji142.deb
+Size: 64228622
+MD5sum: fc68b5c00ba802295946348a1fbb702c
+SHA1: bb4df93caa6817c0c105b3b96473bb86ce5cfd13
+SHA256: 46e14c353d4e5cbba05e2dcb04a2b3064b794e1f74056bb3112cf1ae95c7bae8
 Section: Fonts
 Description: BytaFont
 Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emoji132/index.html
-Name: Emoji iOS 13.2
+Depiction: http://vxbakerxv.github.io/repo/emoji142/index.html
+Name: Emoji iOS 14.2
 
-Package: com.ps-vxbakerxv.emoji132fonta
+Package: com.ps-vxbakerxv.emoji142fonta
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/Emoji132_A.deb
-Size: 63177972
-MD5sum: fd7f0ac0944b9a3c8824feee8d954ef1
-SHA1: e11c79f7eb6fb4e103eba29bfa3a19f92550bcc9
-SHA256: 4afd9ffc0777cc9c1d7e0368af508ffb2faa5dd28057de4468ad6fe0f010b7fe
+Filename: ./debs/Emoji142_A.deb
+Size: 64223138
+MD5sum: eee324e859be6a85e239f327863eaa84
+SHA1: 28c13c4073783df92e489937cb60af31d78d8fda
+SHA256: b506e76e7361957f0595e397de9c0892e561fb6d2fa80e82118dfa38e4ae0898
 Section: Fonts (Anemone)
 Description: Anemone
 Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emoji132a/index.html
-Name: Emoji iOS 13.2
+Depiction: http://vxbakerxv.github.io/repo/emoji142a/index.html
+Name: Emoji iOS 14.2
 
-Package: com.ps-vxbakerxv.emoji132fontefm
+Package: com.ps-vxbakerxv.emoji142fontefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/Emoji132_EFM.deb
-Size: 63177660
-MD5sum: 21c89c4d082a278ecfabbf5189be0302
-SHA1: e071cf7a01444975e708b91749b2c9d3b3b5d245
-SHA256: 7136222280f77eaa34a568e3175f0dfe2889ab17cbba882add04b6928d9f739c
+Filename: ./debs/Emoji142_EFM.deb
+Size: 64222774
+MD5sum: b4e69bf4a2d10a207ccd34e24c27c95a
+SHA1: 13acc404e1eb40111e07e859d8a93e4d8c93500c
+SHA256: 8d7fbf8b50ade93dd17cb432ad8c6f90263d17275e39ddf5440a00144ef90d5e
 Section: Fonts (EFM)
 Description: EmojiFontManager
 Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/emoji132efm/index.html
-Name: Emoji iOS 13.2
+Depiction: http://vxbakerxv.github.io/repo/emoji142efm/index.html
+Name: Emoji iOS 14.2
 
 Package: com.ps-vxbakerxv.emojiandroidpfont
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiAndroidP.deb
+Filename: ./debs/EmojiAndroidP.deb
 Size: 40914688
 MD5sum: 28570231c92b5bdc94d5a4f0c5afe096
 SHA1: bcd0058a758560e60665b654d569f457b3fa8162
@@ -62,7 +62,7 @@ Package: com.ps-vxbakerxv.emojiandroidpfonta
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiAndroidP_A.deb
+Filename: ./debs/EmojiAndroidP_A.deb
 Size: 40913268
 MD5sum: 5db1027da3242e7d38fc995542e74400
 SHA1: 3c51925de0dce4910e9cfc2cdd05e85768425d70
@@ -77,7 +77,7 @@ Package: com.ps-vxbakerxv.emojiandroidpfontefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiAndroidP_EFM.deb
+Filename: ./debs/EmojiAndroidP_EFM.deb
 Size: 40912950
 MD5sum: ae625ecb9a1195f7de5529ea8581d4a9
 SHA1: 2e73e95b4f6dd5979070fe74d002fc83a4911a57
@@ -92,7 +92,7 @@ Package: com.ps-vxbakerxv.emojisamsung
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiSamsung.deb
+Filename: ./debs/EmojiSamsung.deb
 Size: 51060346
 MD5sum: fdc7628753bee4919be89a77566a25d1
 SHA1: 3427f82d0b82bb856e392935b76cd20969c4720d
@@ -107,7 +107,7 @@ Package: com.ps-vxbakerxv.emojisamsunga
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiSamsung_A.deb
+Filename: ./debs/EmojiSamsung_A.deb
 Size: 51058548
 MD5sum: 52f9e2977f084a96c7e8c607d5a7aa8a
 SHA1: 85a471023d9f0689d1aacb1e052f3afdca1f6925
@@ -122,7 +122,7 @@ Package: com.ps-vxbakerxv.emojisamsungefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiSamsung_EFM.deb
+Filename: ./debs/EmojiSamsung_EFM.deb
 Size: 51058170
 MD5sum: 1fe2d9a5112d13f7364f306ba182ee86
 SHA1: 3235df947fc1d30dc39cd4eba42c2e6e7df44700
@@ -137,7 +137,7 @@ Package: com.ps-vxbakerxv.emojitwitterfont
 Version: 1.6.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiTwitter.deb
+Filename: ./debs/EmojiTwitter.deb
 Size: 33751376
 MD5sum: b8a32248164fd804a4fc1a31ff14c10c
 SHA1: c16b8739aa218ed687a839e3692981a9e4eb75af
@@ -152,7 +152,7 @@ Package: com.ps-vxbakerxv.emojitwitterfonta
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiTwitter_A.deb
+Filename: ./debs/EmojiTwitter_A.deb
 Size: 33749312
 MD5sum: 0d30312de7bcbcd1170d683cbd3cf543
 SHA1: 36fcfaa99029667d05618573082d8b5f8cd255fe
@@ -167,7 +167,7 @@ Package: com.ps-vxbakerxv.emojitwitterfontefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/EmojiTwitter_EFM.deb
+Filename: ./debs/EmojiTwitter_EFM.deb
 Size: 33748972
 MD5sum: 4671eaa177eadb09abc56c81a3fcb58c
 SHA1: c1e0781859be5903441534713d37fa089e97d2dd
@@ -182,7 +182,7 @@ Package: com.ps-vxbakerxv.joypixels
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/JoyPixels.deb
+Filename: ./debs/JoyPixels.deb
 Size: 52235018
 MD5sum: 7eb2e4e3c45010cd01654030cbd92f5c
 SHA1: ae93100db333ccf4d3408886885ff46bbd893a61
@@ -197,7 +197,7 @@ Package: com.ps-vxbakerxv.joypixelsa
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/JoyPixels_A.deb
+Filename: ./debs/JoyPixels_A.deb
 Size: 52232726
 MD5sum: e4f9da4d4db65b0aa7f5f6e421794547
 SHA1: 7cc04f06e1cd8cfc0a7c7f513e1480e7cf8d966e
@@ -212,7 +212,7 @@ Package: com.ps-vxbakerxv.joypixelsdecals
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/JoyPixelsDecals.deb
+Filename: ./debs/JoyPixelsDecals.deb
 Size: 66201636
 MD5sum: 3467494faf3751372b0c140803f0a1b1
 SHA1: 9bfddab4beaa43ece804be6268f87f4ee9e85ee6
@@ -227,7 +227,7 @@ Package: com.ps-vxbakerxv.joypixelsdecalsa
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/JoyPixelsDecals_A.deb
+Filename: ./debs/JoyPixelsDecals_A.deb
 Size: 66199430
 MD5sum: 0570e58b30b6a719a2474c8ecbb2d346
 SHA1: 7dfa3f2abc6d5110ec84886a714defc07913fcb0
@@ -242,7 +242,7 @@ Package: com.ps-vxbakerxv.joypixelsdecalsefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/JoyPixelsDecals_EFM.deb
+Filename: ./debs/JoyPixelsDecals_EFM.deb
 Size: 66199150
 MD5sum: 6909d2e58e9dcc12c78c225d0921e2fb
 SHA1: d8242481b9738ac1d78f7e6c73728ec7160cd08c
@@ -257,7 +257,7 @@ Package: com.ps-vxbakerxv.joypixelsefm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Filename: .//debs/JoyPixels_EFM.deb
+Filename: ./debs/JoyPixels_EFM.deb
 Size: 52232392
 MD5sum: fae52c337fb63415307b83e9a3255164
 SHA1: 78c150f37eb3daf57672f0be1ee7066627c9a0a9
