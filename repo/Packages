@@ -179,14 +179,14 @@ Depiction: http://vxbakerxv.github.io/repo/emojitwitterefm/index.html
 Name: Emoji Twitter
 
 Package: com.ps-vxbakerxv.joypixels
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
 Filename: ./debs/JoyPixels.deb
-Size: 52235018
-MD5sum: 7eb2e4e3c45010cd01654030cbd92f5c
-SHA1: ae93100db333ccf4d3408886885ff46bbd893a61
-SHA256: 557dd5f75b3803cfd03bb0f8805b3ac14354ecdff80c7c4873c6d660a3288784
+Size: 54918374
+MD5sum: f60ae3d12b3b5f22431f8afc891b1db2
+SHA1: 4c305cf09cf77be909b4abb132fc4b9d959a391f
+SHA256: 37a614e68af6c0e278047f3921f7741f2b80a76cc279a486101a7624d58f187a
 Section: Fonts
 Description: BytaFont
 Author: PoomSmart & vXBaKeRXv
@@ -194,74 +194,29 @@ Depiction: http://vxbakerxv.github.io/repo/joypixels/index.html
 Name: JoyPixels
 
 Package: com.ps-vxbakerxv.joypixelsa
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
 Filename: ./debs/JoyPixels_A.deb
-Size: 52232726
-MD5sum: e4f9da4d4db65b0aa7f5f6e421794547
-SHA1: 7cc04f06e1cd8cfc0a7c7f513e1480e7cf8d966e
-SHA256: 3ac8eabe8e63a2581a1ffc4cfadfe0a21fdf43970851c3048764fcff28dc099c
+Size: 54922790
+MD5sum: 708c7abd92779e8f90190fcfce9e145b
+SHA1: f9acca042fa6cc4ab09985a68f979f39006569ed
+SHA256: 2add0c877fd6fe6d78cc480b6c411cc23853168891044413060395e403c47e09
 Section: Fonts (Anemone)
 Description: Anemone
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/joypixelsa/index.html
 Name: JoyPixels
 
-Package: com.ps-vxbakerxv.joypixelsdecals
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: ./debs/JoyPixelsDecals.deb
-Size: 66201636
-MD5sum: 3467494faf3751372b0c140803f0a1b1
-SHA1: 9bfddab4beaa43ece804be6268f87f4ee9e85ee6
-SHA256: 3dcb6df7ac61a9dd5c8b7288378ce5b7b34d4888839852fb904a7b1e8debd706
-Section: Fonts
-Description: BytaFont
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/joypixelsdecals/index.html
-Name: JoyPixels Decals
-
-Package: com.ps-vxbakerxv.joypixelsdecalsa
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: ./debs/JoyPixelsDecals_A.deb
-Size: 66199430
-MD5sum: 0570e58b30b6a719a2474c8ecbb2d346
-SHA1: 7dfa3f2abc6d5110ec84886a714defc07913fcb0
-SHA256: afa57d96b06160918dc28b3b2ffa38611cb2833390d3e22d3103ca1d6bfb4fc0
-Section: Fonts (Anemone)
-Description: Anemone
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/joypixelsdecalsa/index.html
-Name: JoyPixels Decals
-
-Package: com.ps-vxbakerxv.joypixelsdecalsefm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: ./debs/JoyPixelsDecals_EFM.deb
-Size: 66199150
-MD5sum: 6909d2e58e9dcc12c78c225d0921e2fb
-SHA1: d8242481b9738ac1d78f7e6c73728ec7160cd08c
-SHA256: dc4d34f0ae518203a3ed36e81e8df4dfc5f97c43f3760170c3aff9145400735d
-Section: Fonts (EFM)
-Description: EmojiFontManager
-Author: PoomSmart & vXBaKeRXv
-Depiction: http://vxbakerxv.github.io/repo/joypixelsdecalsefm/index.html
-Name: JoyPixels Decals
-
 Package: com.ps-vxbakerxv.joypixelsefm
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
 Filename: ./debs/JoyPixels_EFM.deb
-Size: 52232392
-MD5sum: fae52c337fb63415307b83e9a3255164
-SHA1: 78c150f37eb3daf57672f0be1ee7066627c9a0a9
-SHA256: 6c9157545663297dd64b1f9d11d81cd4f664ec7e37a9cb1fa162b775964bd2db
+Size: 54922442
+MD5sum: b021a7859c8e0d03ee872c96033b57e1
+SHA1: 194cd4667d83b6b5181e93dfb89fb78698bd1811
+SHA256: c6f47697cff77a0a6c565245c13aad42569769224e825e30d619984447c7fafe
 Section: Fonts (EFM)
 Description: EmojiFontManager
 Author: PoomSmart & vXBaKeRXv
